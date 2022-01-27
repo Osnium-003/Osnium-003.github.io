@@ -2,19 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/posts/about/</loc>
-    <lastmod>2022-01-27T18:35:58+05:30</lastmod>
-  </url><url>
     <loc>/</loc>
-    <lastmod>2022-01-27T18:35:58+05:30</lastmod>
+    <lastmod>2022-01-27T21:11:42+05:30</lastmod>
+  </url><url>
+    <loc>/posts/blackhole/</loc>
+    <lastmod>2022-01-27T21:11:42+05:30</lastmod>
   </url><url>
     <loc>/posts/</loc>
-    <lastmod>2022-01-27T18:35:58+05:30</lastmod>
+    <lastmod>2022-01-27T21:11:42+05:30</lastmod>
   </url><url>
     <loc>/tags/</loc>
-    <lastmod>2022-01-27T18:35:58+05:30</lastmod>
+    <lastmod>2022-01-27T21:11:42+05:30</lastmod>
   </url><url>
     <loc>/tags/untagged/</loc>
+    <lastmod>2022-01-27T21:11:42+05:30</lastmod>
+  </url><url>
+    <loc>/posts/about/</loc>
     <lastmod>2022-01-27T18:35:58+05:30</lastmod>
   </url>
 </urlset>
